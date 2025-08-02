@@ -194,10 +194,10 @@ This is a personal learning project, but I'm always open to feedback and suggest
 
 I'm a junior frontend developer passionate about creating beautiful and functional web experiences. Feel free to reach out!
 
-- **Portfolio**: [Your Portfolio URL]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Portfolio**: [Portfolio URL]
+- **LinkedIn**: [LinkedIn Profile]
+- **Email**: guilhermedev25@gmail.com
+- **GitHub**: [@guilhermedev25](https://github.com/guilhermedev25)
 
 ## 📄 License
 
@@ -207,7 +207,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
-_Built with ❤️ by [Your Name]_
+_Built with ❤️ by Guilherme Silva_
 
 # 🛍️ Electrum E‑commerce Website
 
@@ -240,7 +240,7 @@ Electrum is a personal project to improve my front‑end development skills. It'
 Clone and run locally:
 
 ```bash
-git clone https://github.com/yourusername/electrum-ecommerce.git
+git clone https://github.com/guilhermedev25/electrum-ecommerce.git
 cd electrum-ecommerce
 ```
 
