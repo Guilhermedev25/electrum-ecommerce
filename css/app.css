@@ -38,7 +38,7 @@ ul {
   background-color: #1E1F29;
   color: #FFF;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .header-top {
     display: none;
   }
@@ -67,7 +67,7 @@ ul {
   justify-content: space-between;
   padding: 1.3rem 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .main-header-container {
     flex-direction: column;
     align-items: center;
@@ -90,7 +90,7 @@ ul {
   justify-content: center;
   width: 45%;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .main-header-container #search-form {
     width: 100%;
     margin: 2rem 0;
@@ -135,7 +135,7 @@ ul {
 .main-header-container .header-actions-menu .wishlist-container a:hover, .main-header-container .header-actions-menu .header-cart-container a:hover {
   color: #D10024;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .main-header-container .header-actions-menu .wishlist-container, .main-header-container .header-actions-menu .header-cart-container {
     margin: 1rem;
   }
@@ -154,7 +154,7 @@ ul {
   justify-content: left;
   padding: 1rem 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .header-bottom ul {
     display: none;
   }
@@ -178,7 +178,7 @@ ul {
   justify-content: space-between;
   padding: 3rem 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .banners {
     flex-direction: column;
     align-items: center;
@@ -197,7 +197,7 @@ ul {
   font-size: 2rem;
   text-transform: uppercase;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .products-grid h2 {
     text-align: center;
   }
@@ -207,7 +207,7 @@ ul {
   justify-content: space-between;
   padding: 2rem 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .products-grid-container {
     flex-direction: column;
     align-items: center;
@@ -224,7 +224,7 @@ ul {
   height: 400px;
   padding: 2rem;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .deal-container {
     background-size: 70%;
     background-position-y: 130%;
@@ -242,7 +242,7 @@ ul {
   justify-content: space-between;
   justify-content: center;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .deal-container-content {
     text-align: center;
   }
@@ -251,7 +251,7 @@ ul {
   display: flex;
   margin-bottom: 2rem;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .deal-container-content-timer {
     flex-wrap: wrap;
     align-self: center;
@@ -270,7 +270,7 @@ ul {
   color: #FFF;
   margin: 0 1rem;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .deal-container-content .deal-container-timer {
     margin-bottom: 1.5rem;
   }
@@ -297,7 +297,7 @@ ul {
   padding: 3rem;
   border-top: 2px solid #E4E7ED;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .newsletter-container {
     text-align: center;
   }
@@ -316,7 +316,7 @@ ul {
   display: flex;
   margin-bottom: 3rem;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .newsletter-container form {
     width: 100%;
   }
@@ -328,7 +328,7 @@ ul {
   border-bottom-left-radius: 20px;
   padding-left: 25px;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .newsletter-container form input[type=email] {
     width: 100%;
   }
@@ -350,7 +350,7 @@ ul {
   background-color: #15161D;
   padding: 3rem 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .footer {
     padding: 3rem;
   }
@@ -380,7 +380,7 @@ ul {
   justify-content: space-between;
   padding-bottom: 3rem;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .footer-top {
     flex-direction: column;
   }
@@ -388,7 +388,7 @@ ul {
 .footer-top-about, .footer-top-categories, .footer-top-information, .footer-top-menu {
   max-width: 25%;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .footer-top-about, .footer-top-categories, .footer-top-information, .footer-top-menu {
     max-width: 100%;
     margin-bottom: 1rem;
@@ -450,7 +450,7 @@ ul {
   background-size: cover;
   background-size: 100%;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .banner {
     width: 90%;
     margin: 1rem;
@@ -512,7 +512,7 @@ ul {
   justify-content: center;
   align-items: center;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .products-grid-card {
     width: 90%;
     margin: 1rem;
