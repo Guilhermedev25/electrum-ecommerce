@@ -1,40 +1,37 @@
+# 🛍️ Electrum E-commerce Website
 
-# 🛍️ Electrum E‑commerce Website
+Electrum is a fictional e-commerce website I built to practice front-end development with HTML, SASS, and CSS.
 
-Hey there! 👋 I'm a junior front‑end developer, and I built **Electrum** — a fictional e‑commerce site made with HTML, SASS, and CSS. This project was a fun way for me to practice responsive design and clean code. 💻✨
+The main focus of this project was creating a responsive layout and organizing styles in a cleaner way.
 
-## 📌 About
+## 🚀 What the project includes
 
-Electrum is a personal project to improve my front‑end development skills. It's focused on building a modern, responsive layout that looks good on all devices — desktop 🖥️, tablet 📱, and mobile 📲.
+- responsive layout
+- product listing section
+- rating stars and prices
+- offer banner with countdown
+- newsletter field
+- wishlist and cart icons
+- footer with links and information
 
-## 🚀 Features
+## 🛠️ Technologies used
 
-- ✅ Fully responsive layout
-- 🛒 Product listings with ratings & prices
-- 🧾 Clean UI with smooth transitions
-- 🕒 Countdown banner for special deals
-- 📬 Newsletter signup form
-- ❤️ Wishlist & shopping cart UI (static only)
-- 📎 Footer with helpful navigation links
+- HTML5
+- CSS3
+- SASS
+- Font Awesome
+- Google Fonts
 
-## 🛠️ Tech Stack
+## 🧪 How to run
 
-- 🧱 HTML5 – semantic structure
-- 🎨 SASS/SCSS – modular styles
-- 🌈 CSS3 – Grid, Flexbox & animations
-- ⭐ Font Awesome – icons
-- 🔤 Google Fonts – “Open Sans”
-
-## 🧪 Try It Out
-
-Clone and run locally:
+Clone the repository:
 
 ```bash
 git clone https://github.com/guilhermedev25/electrum-ecommerce.git
 cd electrum-ecommerce
 ```
 
-Open `index.html` or run a local server:
+Then you can open the `index.html` file directly in your browser or run a local server:
 
 ```bash
 python -m http.server 8000
@@ -42,27 +39,16 @@ python -m http.server 8000
 npx serve .
 ```
 
-Then go to 👉 `http://localhost:8000`
+After that, open:
 
-## 📚 What I Learned
+```bash
+http://localhost:8000
+```
 
-- Organizing styles with the 7-1 SASS pattern
-- Creating responsive layouts using Grid & Flexbox
-- Writing clean, semantic HTML
-- Structuring files for better maintainability 🗂️
+## 🎯 What I want to improve next
 
-## 🛠️ Future Goals
-
-- 🧠 Add interactive JavaScript (cart logic, product filtering)
-- 🔍 Product search functionality
-- 🔐 Basic authentication flow
-- 📷 Lazy loading images
-- 🌙 Add a dark mode switch
-- 🧪 Add basic unit tests
-
----
-
-Thanks for checking out my project! 🙌  
-Feel free to share any feedback or tips — I'm always learning! 💬
-
-— Made with ❤️ by a junior front‑end dev
+- add JavaScript to make the project more interactive
+- create product search and filtering
+- add lazy loading for images
+- make a dark mode version
+- keep improving responsiveness
